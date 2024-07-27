@@ -60,6 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nicolas-David-Faure/Nicolas-David-Faure/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nicolas-David-Faure/Nicolas-David-Faure/snake.svg" alt="Snake animation" />
 
 ###
